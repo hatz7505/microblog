@@ -1,0 +1,3 @@
+[submodule "microblog-backend"]
+	path = microblog-backend
+	url = https://github.com/vanvemden/microblog-backend
